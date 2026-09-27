@@ -1,5 +1,9 @@
 # GCAT ADR candidate screening dashboard
 
+## Live Dashboard
+
+[Open the GCAT ADR Candidate Screening Dashboard](https://izwmv46vbkko7kkomcbuaq.streamlit.app/)
+
 This Streamlit app screens freely orbiting, large rocket stages from Jonathan
 C. McDowell's General Catalog of Artificial Space Objects (GCAT).
 
